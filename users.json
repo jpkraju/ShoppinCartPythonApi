@@ -1,0 +1,38 @@
+[
+    {
+        "user_id": "u1",
+        "username": "raju",
+        "password": "a123",
+        "first_name": "Raju",
+        "last_name": "K",
+        "email_id": "raju@gmail.com",
+        "phone": "+91.9704302202"
+    },
+    {
+        "user_id" : "u2",
+        "username": "user1",
+        "password": "a123",
+        "first_name": "User",
+        "last_name": "One",
+        "email_id": "userone@gmail.com",
+        "phone": "+91.9876543210"
+    },
+    {
+        "user_id" : "u3",
+        "username": "hema",
+        "password": "a123",
+        "first_name": "Hemalatha",
+        "last_name": "V",
+        "email_id": "hema@gmail.com",
+        "phone": "+91.111112222333"
+    },
+    {
+        "user_id" : "u4",
+        "username": "kanchan",
+        "password": "a123",
+        "first_name": "Kanchan",
+        "last_name": "K",
+        "email_id": "kanchan@gmail.com",
+        "phone": "+91.999888777666"
+    }
+]
