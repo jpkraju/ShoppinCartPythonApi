@@ -2,9 +2,10 @@
 
 1. Create virtual environment  
 virtualenv venvFastAPI
-source venvFastAPI/bin/activate
 
-pip install fastapi uvicorn[standard]
+1.1 acticate virtual env : source venvFastAPI/bin/activate
+
+    pip install fastapi uvicorn[standard]
 
 2. Run application using uvicorn tool
 uvicorn main:app --port 8085  --reload
